@@ -1,0 +1,11 @@
+<resources>
+    <string name="flutter_uploader_notification_started">بدأ التحميل</string>
+    <string name="flutter_uploader_notification_in_progress">التحميل قيد التقدم</string>
+    <string name="flutter_uploader_notification_canceled">تم إلغاء التحميل</string>
+    <string name="flutter_uploader_notification_failed">اكتمل التحميل</string>
+    <string name="flutter_uploader_notification_complete">اكتمل التحميل</string>
+
+    <string name="facebook_app_id">355467306372724</string>
+    <string name="facebook_client_token">b160e1910aa70a65a12d7551c06eb133</string>
+
+</resources>
